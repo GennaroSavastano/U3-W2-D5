@@ -1,7 +1,43 @@
+body {
+  font-family: "helvetica";
+  background-color: #247ba0;
+  color: whitesmoke;
+}
+.body {
+  font-family: "helvetica";
+  background-color: #247ba0;
+  color: whitesmoke;
+  border: 2px solid whitesmoke;
+}
+.nav {
+  font-family: "helvetica";
+  background-color: #247ba0;
+  color: whitesmoke;
+}
+
 .bigIcons {
-  font-size: 400px;
+  font-size: 200px;
+}
+
+.midIcons {
+  font-size: 180px;
+}
+
+.smlIcons {
+  font-size: 40px;
 }
 
 .bigTemperature {
-  font-size: 200px;
+  font-size: 90px;
+}
+
+.containerForecast {
+  border-radius: 40px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.minis {
+  background-color: #f18805;
+  border-radius: 20px;
+  padding: 20px;
 }
